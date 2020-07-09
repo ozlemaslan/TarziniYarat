@@ -1,0 +1,101 @@
+﻿@{
+    ViewBag.Title = "ModelistBlog";
+    Layout = "~/Views/Shared/_LayoutSites.cshtml";
+}
+
+<h2>ModelistBlog</h2>
+
+
+<body>
+    <!--================Home Banner Area =================-->
+    <section class="banner_area">
+        <div class="banner_inner d-flex align-items-center">
+            <div class="container">
+                <div class="banner_content text-center">
+                    <br />
+                    <br />
+                    <div class="page_link">
+                        <a href="/Sites/HomePage">Ana Sayfa</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!--================End Home Banner Area =================-->
+    <!--================Contact Area =================-->
+    @using (Html.BeginForm())
+    {
+
+
+        <section class="contact_area p_120">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-9">
+                        @*<form class="row contact_form" action="/Sites/Blog" method="post" id="contactForm" novalidate="novalidate">  *@
+                        <div class="container">
+                            <div class="form-group">
+                                <input type="text" class="form-control" id="blog" name="blog" placeholder="Blog Başlığı giriniz..." required="required">
+                            </div>
+                        </div><br />
+                        <div class="container">
+                            <div class="form-group">
+                                <textarea class="form-control" name="message" id="message" rows="10" placeholder="Mesajınızı giriniz..." required="required"></textarea>
+                            </div>
+                        </div><br />
+                        <div class="col-md-12 text-right">
+                            @*<a href="/Modelist/ModelistBlog" class="btn btn-success form-control">Gönder</a>*@
+                            <button type="submit" value="submit" class="btn btn-success form-control">Gönder</button>
+                            @*@Html.ActionLink("Gönder","ModelistBlog",new { @class="btn btn-success "})*@
+                        </div>
+                        @*</form>*@
+                    </div>
+                </div>
+            </div>
+        </section>
+    }
+    <!--================Contact Area =================-->
+    <!--================Contact Success and Error message Area =================-->
+    <div id="success" class="modal modal-message fade" role="dialog">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <i class="fa fa-close"></i>
+                    </button>
+                    <h2>Teşekkürler</h2>
+                    <p>Mesaj başarıyla gönderildi....</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Modals error -->
+
+    <div id="error" class="modal modal-message fade" role="dialog">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <i class="fa fa-close"></i>
+                    </button>
+                    <h2>Üzgünüm !</h2>
+                    <p> Bazı Şeyler Olmadı. </p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!--================End Contact Success and Error message Area =================-->
+    <!-- contact js -->
+    <script src="~/Assets/js/jquery.form.js"></script>
+    <script src="~/Assets/js/jquery.validate.min.js"></script>
+    <script src="~/Assets/js/contact.js"></script>
+    <!--gmaps Js-->
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCjCGmQ0Uq4exrzdcL6rvxywDDOvfAu6eE"></script>
+    <script src="~/Assets/js/gmaps.min.js"></script>
+    <script src="~/Assets/js/theme.js"></script>
+</body>
+
+
+
+
+

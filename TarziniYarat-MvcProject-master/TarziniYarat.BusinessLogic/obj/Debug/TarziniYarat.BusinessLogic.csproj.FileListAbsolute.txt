@@ -1,0 +1,144 @@
+C:\Users\Kubra SEYREK\Desktop\TarziniYarat-MvcProjesi\TarziniYarat.BusinessLogic\bin\Debug\TarziniYarat.BusinessLogic.dll.config
+C:\Users\Kubra SEYREK\Desktop\TarziniYarat-MvcProjesi\TarziniYarat.BusinessLogic\bin\Debug\TarziniYarat.BusinessLogic.dll
+C:\Users\Kubra SEYREK\Desktop\TarziniYarat-MvcProjesi\TarziniYarat.BusinessLogic\bin\Debug\TarziniYarat.BusinessLogic.pdb
+C:\Users\Kubra SEYREK\Desktop\TarziniYarat-MvcProjesi\TarziniYarat.BusinessLogic\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Kubra SEYREK\Desktop\TarziniYarat-MvcProjesi\TarziniYarat.BusinessLogic\bin\Debug\Ninject.dll
+C:\Users\Kubra SEYREK\Desktop\TarziniYarat-MvcProjesi\TarziniYarat.BusinessLogic\bin\Debug\TarziniYarat.Core.dll
+C:\Users\Kubra SEYREK\Desktop\TarziniYarat-MvcProjesi\TarziniYarat.BusinessLogic\bin\Debug\TarziniYarat.DataAccess.dll
+C:\Users\Kubra SEYREK\Desktop\TarziniYarat-MvcProjesi\TarziniYarat.BusinessLogic\bin\Debug\TarziniYarat.Model.dll
+C:\Users\Kubra SEYREK\Desktop\TarziniYarat-MvcProjesi\TarziniYarat.BusinessLogic\bin\Debug\EntityFramework.dll
+C:\Users\Kubra SEYREK\Desktop\TarziniYarat-MvcProjesi\TarziniYarat.BusinessLogic\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Kubra SEYREK\Desktop\TarziniYarat-MvcProjesi\TarziniYarat.BusinessLogic\bin\Debug\TarziniYarat.Core.pdb
+C:\Users\Kubra SEYREK\Desktop\TarziniYarat-MvcProjesi\TarziniYarat.BusinessLogic\bin\Debug\TarziniYarat.Core.dll.config
+C:\Users\Kubra SEYREK\Desktop\TarziniYarat-MvcProjesi\TarziniYarat.BusinessLogic\bin\Debug\TarziniYarat.DataAccess.pdb
+C:\Users\Kubra SEYREK\Desktop\TarziniYarat-MvcProjesi\TarziniYarat.BusinessLogic\bin\Debug\TarziniYarat.DataAccess.dll.config
+C:\Users\Kubra SEYREK\Desktop\TarziniYarat-MvcProjesi\TarziniYarat.BusinessLogic\bin\Debug\TarziniYarat.Model.pdb
+C:\Users\Kubra SEYREK\Desktop\TarziniYarat-MvcProjesi\TarziniYarat.BusinessLogic\bin\Debug\TarziniYarat.Model.dll.config
+C:\Users\Kubra SEYREK\Desktop\TarziniYarat-MvcProjesi\TarziniYarat.BusinessLogic\bin\Debug\Ninject.xml
+C:\Users\Kubra SEYREK\Desktop\TarziniYarat-MvcProjesi\TarziniYarat.BusinessLogic\bin\Debug\EntityFramework.xml
+C:\Users\Kubra SEYREK\Desktop\TarziniYarat-MvcProjesi\TarziniYarat.BusinessLogic\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Kubra SEYREK\Desktop\TarziniYarat-MvcProjesi\TarziniYarat.BusinessLogic\obj\Debug\TarziniYarat.BusinessLogic.csprojAssemblyReference.cache
+C:\Users\Kubra SEYREK\Desktop\TarziniYarat-MvcProjesi\TarziniYarat.BusinessLogic\obj\Debug\TarziniYarat.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\Kubra SEYREK\Desktop\TarziniYarat-MvcProjesi\TarziniYarat.BusinessLogic\obj\Debug\TarziniYarat.BusinessLogic.csproj.CopyComplete
+C:\Users\Kubra SEYREK\Desktop\TarziniYarat-MvcProjesi\TarziniYarat.BusinessLogic\obj\Debug\TarziniYarat.BusinessLogic.dll
+C:\Users\Kubra SEYREK\Desktop\TarziniYarat-MvcProjesi\TarziniYarat.BusinessLogic\obj\Debug\TarziniYarat.BusinessLogic.pdb
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject3\TarziniYarat.BusinessLogic\bin\Debug\TarziniYarat.BusinessLogic.dll.config
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject3\TarziniYarat.BusinessLogic\bin\Debug\TarziniYarat.BusinessLogic.dll
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject3\TarziniYarat.BusinessLogic\bin\Debug\TarziniYarat.BusinessLogic.pdb
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject3\TarziniYarat.BusinessLogic\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject3\TarziniYarat.BusinessLogic\bin\Debug\Ninject.dll
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject3\TarziniYarat.BusinessLogic\bin\Debug\TarziniYarat.Core.dll
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject3\TarziniYarat.BusinessLogic\bin\Debug\TarziniYarat.DataAccess.dll
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject3\TarziniYarat.BusinessLogic\bin\Debug\TarziniYarat.Model.dll
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject3\TarziniYarat.BusinessLogic\bin\Debug\EntityFramework.dll
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject3\TarziniYarat.BusinessLogic\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject3\TarziniYarat.BusinessLogic\bin\Debug\TarziniYarat.Core.pdb
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject3\TarziniYarat.BusinessLogic\bin\Debug\TarziniYarat.Core.dll.config
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject3\TarziniYarat.BusinessLogic\bin\Debug\TarziniYarat.DataAccess.pdb
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject3\TarziniYarat.BusinessLogic\bin\Debug\TarziniYarat.DataAccess.dll.config
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject3\TarziniYarat.BusinessLogic\bin\Debug\TarziniYarat.Model.pdb
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject3\TarziniYarat.BusinessLogic\bin\Debug\TarziniYarat.Model.dll.config
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject3\TarziniYarat.BusinessLogic\bin\Debug\Ninject.xml
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject3\TarziniYarat.BusinessLogic\bin\Debug\EntityFramework.xml
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject3\TarziniYarat.BusinessLogic\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject3\TarziniYarat.BusinessLogic\obj\Debug\TarziniYarat.BusinessLogic.csprojAssemblyReference.cache
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject3\TarziniYarat.BusinessLogic\obj\Debug\TarziniYarat.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject3\TarziniYarat.BusinessLogic\obj\Debug\TarziniYarat.BusinessLogic.csproj.CopyComplete
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject3\TarziniYarat.BusinessLogic\obj\Debug\TarziniYarat.BusinessLogic.dll
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject3\TarziniYarat.BusinessLogic\obj\Debug\TarziniYarat.BusinessLogic.pdb
+C:\Users\ozlem\Source\Repos\TarziniYarat-MvcProject\TarziniYarat.BusinessLogic\bin\Debug\TarziniYarat.BusinessLogic.dll.config
+C:\Users\ozlem\Source\Repos\TarziniYarat-MvcProject\TarziniYarat.BusinessLogic\bin\Debug\TarziniYarat.BusinessLogic.dll
+C:\Users\ozlem\Source\Repos\TarziniYarat-MvcProject\TarziniYarat.BusinessLogic\bin\Debug\TarziniYarat.BusinessLogic.pdb
+C:\Users\ozlem\Source\Repos\TarziniYarat-MvcProject\TarziniYarat.BusinessLogic\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\ozlem\Source\Repos\TarziniYarat-MvcProject\TarziniYarat.BusinessLogic\bin\Debug\Ninject.dll
+C:\Users\ozlem\Source\Repos\TarziniYarat-MvcProject\TarziniYarat.BusinessLogic\bin\Debug\TarziniYarat.Core.dll
+C:\Users\ozlem\Source\Repos\TarziniYarat-MvcProject\TarziniYarat.BusinessLogic\bin\Debug\TarziniYarat.DataAccess.dll
+C:\Users\ozlem\Source\Repos\TarziniYarat-MvcProject\TarziniYarat.BusinessLogic\bin\Debug\TarziniYarat.Model.dll
+C:\Users\ozlem\Source\Repos\TarziniYarat-MvcProject\TarziniYarat.BusinessLogic\bin\Debug\EntityFramework.dll
+C:\Users\ozlem\Source\Repos\TarziniYarat-MvcProject\TarziniYarat.BusinessLogic\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ozlem\Source\Repos\TarziniYarat-MvcProject\TarziniYarat.BusinessLogic\bin\Debug\TarziniYarat.Core.pdb
+C:\Users\ozlem\Source\Repos\TarziniYarat-MvcProject\TarziniYarat.BusinessLogic\bin\Debug\TarziniYarat.Core.dll.config
+C:\Users\ozlem\Source\Repos\TarziniYarat-MvcProject\TarziniYarat.BusinessLogic\bin\Debug\TarziniYarat.DataAccess.pdb
+C:\Users\ozlem\Source\Repos\TarziniYarat-MvcProject\TarziniYarat.BusinessLogic\bin\Debug\TarziniYarat.DataAccess.dll.config
+C:\Users\ozlem\Source\Repos\TarziniYarat-MvcProject\TarziniYarat.BusinessLogic\bin\Debug\TarziniYarat.Model.pdb
+C:\Users\ozlem\Source\Repos\TarziniYarat-MvcProject\TarziniYarat.BusinessLogic\bin\Debug\TarziniYarat.Model.dll.config
+C:\Users\ozlem\Source\Repos\TarziniYarat-MvcProject\TarziniYarat.BusinessLogic\bin\Debug\Ninject.xml
+C:\Users\ozlem\Source\Repos\TarziniYarat-MvcProject\TarziniYarat.BusinessLogic\bin\Debug\EntityFramework.xml
+C:\Users\ozlem\Source\Repos\TarziniYarat-MvcProject\TarziniYarat.BusinessLogic\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ozlem\Source\Repos\TarziniYarat-MvcProject\TarziniYarat.BusinessLogic\obj\Debug\TarziniYarat.BusinessLogic.csprojAssemblyReference.cache
+C:\Users\ozlem\Source\Repos\TarziniYarat-MvcProject\TarziniYarat.BusinessLogic\obj\Debug\TarziniYarat.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\ozlem\Source\Repos\TarziniYarat-MvcProject\TarziniYarat.BusinessLogic\obj\Debug\TarziniYarat.BusinessLogic.csproj.CopyComplete
+C:\Users\ozlem\Source\Repos\TarziniYarat-MvcProject\TarziniYarat.BusinessLogic\obj\Debug\TarziniYarat.BusinessLogic.dll
+C:\Users\ozlem\Source\Repos\TarziniYarat-MvcProject\TarziniYarat.BusinessLogic\obj\Debug\TarziniYarat.BusinessLogic.pdb
+C:\Users\Kubra SEYREK\Source\Repos\TarziniYarat-MvcProject\TarziniYarat.BusinessLogic\bin\Debug\TarziniYarat.BusinessLogic.dll.config
+C:\Users\Kubra SEYREK\Source\Repos\TarziniYarat-MvcProject\TarziniYarat.BusinessLogic\bin\Debug\TarziniYarat.BusinessLogic.dll
+C:\Users\Kubra SEYREK\Source\Repos\TarziniYarat-MvcProject\TarziniYarat.BusinessLogic\bin\Debug\TarziniYarat.BusinessLogic.pdb
+C:\Users\Kubra SEYREK\Source\Repos\TarziniYarat-MvcProject\TarziniYarat.BusinessLogic\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Kubra SEYREK\Source\Repos\TarziniYarat-MvcProject\TarziniYarat.BusinessLogic\bin\Debug\Ninject.dll
+C:\Users\Kubra SEYREK\Source\Repos\TarziniYarat-MvcProject\TarziniYarat.BusinessLogic\bin\Debug\TarziniYarat.Core.dll
+C:\Users\Kubra SEYREK\Source\Repos\TarziniYarat-MvcProject\TarziniYarat.BusinessLogic\bin\Debug\TarziniYarat.DataAccess.dll
+C:\Users\Kubra SEYREK\Source\Repos\TarziniYarat-MvcProject\TarziniYarat.BusinessLogic\bin\Debug\TarziniYarat.Model.dll
+C:\Users\Kubra SEYREK\Source\Repos\TarziniYarat-MvcProject\TarziniYarat.BusinessLogic\bin\Debug\EntityFramework.dll
+C:\Users\Kubra SEYREK\Source\Repos\TarziniYarat-MvcProject\TarziniYarat.BusinessLogic\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Kubra SEYREK\Source\Repos\TarziniYarat-MvcProject\TarziniYarat.BusinessLogic\bin\Debug\TarziniYarat.Core.pdb
+C:\Users\Kubra SEYREK\Source\Repos\TarziniYarat-MvcProject\TarziniYarat.BusinessLogic\bin\Debug\TarziniYarat.Core.dll.config
+C:\Users\Kubra SEYREK\Source\Repos\TarziniYarat-MvcProject\TarziniYarat.BusinessLogic\bin\Debug\TarziniYarat.DataAccess.pdb
+C:\Users\Kubra SEYREK\Source\Repos\TarziniYarat-MvcProject\TarziniYarat.BusinessLogic\bin\Debug\TarziniYarat.DataAccess.dll.config
+C:\Users\Kubra SEYREK\Source\Repos\TarziniYarat-MvcProject\TarziniYarat.BusinessLogic\bin\Debug\TarziniYarat.Model.pdb
+C:\Users\Kubra SEYREK\Source\Repos\TarziniYarat-MvcProject\TarziniYarat.BusinessLogic\bin\Debug\TarziniYarat.Model.dll.config
+C:\Users\Kubra SEYREK\Source\Repos\TarziniYarat-MvcProject\TarziniYarat.BusinessLogic\bin\Debug\Ninject.xml
+C:\Users\Kubra SEYREK\Source\Repos\TarziniYarat-MvcProject\TarziniYarat.BusinessLogic\bin\Debug\EntityFramework.xml
+C:\Users\Kubra SEYREK\Source\Repos\TarziniYarat-MvcProject\TarziniYarat.BusinessLogic\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Kubra SEYREK\Source\Repos\TarziniYarat-MvcProject\TarziniYarat.BusinessLogic\obj\Debug\TarziniYarat.BusinessLogic.csprojAssemblyReference.cache
+C:\Users\Kubra SEYREK\Source\Repos\TarziniYarat-MvcProject\TarziniYarat.BusinessLogic\obj\Debug\TarziniYarat.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\Kubra SEYREK\Source\Repos\TarziniYarat-MvcProject\TarziniYarat.BusinessLogic\obj\Debug\TarziniYarat.BusinessLogic.csproj.CopyComplete
+C:\Users\Kubra SEYREK\Source\Repos\TarziniYarat-MvcProject\TarziniYarat.BusinessLogic\obj\Debug\TarziniYarat.BusinessLogic.dll
+C:\Users\Kubra SEYREK\Source\Repos\TarziniYarat-MvcProject\TarziniYarat.BusinessLogic\obj\Debug\TarziniYarat.BusinessLogic.pdb
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject.Son\TarziniYarat.BusinessLogic\obj\Debug\TarziniYarat.BusinessLogic.csprojAssemblyReference.cache
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject.Son\TarziniYarat.BusinessLogic\obj\Debug\TarziniYarat.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject.Son\TarziniYarat.BusinessLogic\obj\Debug\TarziniYarat.BusinessLogic.dll
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject.Son\TarziniYarat.BusinessLogic\obj\Debug\TarziniYarat.BusinessLogic.pdb
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject.Son\TarziniYarat.BusinessLogic\bin\Debug\TarziniYarat.BusinessLogic.dll.config
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject.Son\TarziniYarat.BusinessLogic\bin\Debug\TarziniYarat.BusinessLogic.dll
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject.Son\TarziniYarat.BusinessLogic\bin\Debug\TarziniYarat.BusinessLogic.pdb
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject.Son\TarziniYarat.BusinessLogic\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject.Son\TarziniYarat.BusinessLogic\bin\Debug\Ninject.dll
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject.Son\TarziniYarat.BusinessLogic\bin\Debug\TarziniYarat.Core.dll
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject.Son\TarziniYarat.BusinessLogic\bin\Debug\TarziniYarat.DataAccess.dll
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject.Son\TarziniYarat.BusinessLogic\bin\Debug\TarziniYarat.Model.dll
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject.Son\TarziniYarat.BusinessLogic\bin\Debug\EntityFramework.dll
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject.Son\TarziniYarat.BusinessLogic\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject.Son\TarziniYarat.BusinessLogic\bin\Debug\TarziniYarat.Core.pdb
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject.Son\TarziniYarat.BusinessLogic\bin\Debug\TarziniYarat.Core.dll.config
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject.Son\TarziniYarat.BusinessLogic\bin\Debug\TarziniYarat.DataAccess.pdb
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject.Son\TarziniYarat.BusinessLogic\bin\Debug\TarziniYarat.DataAccess.dll.config
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject.Son\TarziniYarat.BusinessLogic\bin\Debug\TarziniYarat.Model.pdb
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject.Son\TarziniYarat.BusinessLogic\bin\Debug\TarziniYarat.Model.dll.config
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject.Son\TarziniYarat.BusinessLogic\bin\Debug\Ninject.xml
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject.Son\TarziniYarat.BusinessLogic\bin\Debug\EntityFramework.xml
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject.Son\TarziniYarat.BusinessLogic\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject.Son\TarziniYarat.BusinessLogic\obj\Debug\TarziniYarat.BusinessLogic.csproj.CopyComplete
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject.Guncel\TarziniYarat.BusinessLogic\bin\Debug\TarziniYarat.BusinessLogic.dll.config
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject.Guncel\TarziniYarat.BusinessLogic\bin\Debug\TarziniYarat.BusinessLogic.dll
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject.Guncel\TarziniYarat.BusinessLogic\bin\Debug\TarziniYarat.BusinessLogic.pdb
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject.Guncel\TarziniYarat.BusinessLogic\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject.Guncel\TarziniYarat.BusinessLogic\bin\Debug\Ninject.dll
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject.Guncel\TarziniYarat.BusinessLogic\bin\Debug\TarziniYarat.Core.dll
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject.Guncel\TarziniYarat.BusinessLogic\bin\Debug\TarziniYarat.DataAccess.dll
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject.Guncel\TarziniYarat.BusinessLogic\bin\Debug\TarziniYarat.Model.dll
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject.Guncel\TarziniYarat.BusinessLogic\bin\Debug\EntityFramework.dll
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject.Guncel\TarziniYarat.BusinessLogic\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject.Guncel\TarziniYarat.BusinessLogic\bin\Debug\TarziniYarat.Core.pdb
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject.Guncel\TarziniYarat.BusinessLogic\bin\Debug\TarziniYarat.Core.dll.config
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject.Guncel\TarziniYarat.BusinessLogic\bin\Debug\TarziniYarat.DataAccess.pdb
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject.Guncel\TarziniYarat.BusinessLogic\bin\Debug\TarziniYarat.DataAccess.dll.config
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject.Guncel\TarziniYarat.BusinessLogic\bin\Debug\TarziniYarat.Model.pdb
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject.Guncel\TarziniYarat.BusinessLogic\bin\Debug\TarziniYarat.Model.dll.config
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject.Guncel\TarziniYarat.BusinessLogic\bin\Debug\Ninject.xml
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject.Guncel\TarziniYarat.BusinessLogic\bin\Debug\EntityFramework.xml
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject.Guncel\TarziniYarat.BusinessLogic\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject.Guncel\TarziniYarat.BusinessLogic\obj\Debug\TarziniYarat.BusinessLogic.csprojAssemblyReference.cache
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject.Guncel\TarziniYarat.BusinessLogic\obj\Debug\TarziniYarat.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject.Guncel\TarziniYarat.BusinessLogic\obj\Debug\TarziniYarat.BusinessLogic.csproj.CopyComplete
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject.Guncel\TarziniYarat.BusinessLogic\obj\Debug\TarziniYarat.BusinessLogic.dll
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject.Guncel\TarziniYarat.BusinessLogic\obj\Debug\TarziniYarat.BusinessLogic.pdb

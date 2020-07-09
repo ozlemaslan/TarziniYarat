@@ -1,0 +1,22 @@
+﻿@model TarziniYarat.Model.Brand
+@{
+    ViewBag.Title = "GetBrand";
+    Layout = "~/Areas/Admin/Views/Shared/_AdminLayout.cshtml";
+}
+
+@using (Html.BeginForm("UpdateBrand", "AdminProcess", FormMethod.Post))
+{
+    <div class="form-group">
+        @Html.LabelFor(m => m.BrandID)
+        @Html.TextBoxFor(m => m.BrandID, new { @class = "form-control" })
+        <br />
+        @Html.LabelFor(m => m.CompanyName)
+        @Html.TextBoxFor(m => m.CompanyName, new { @class = "form-control" })
+
+    </div>
+    <div>
+        <button class=" btn btn-warning">Değişiklikleri Kaydet</button>
+    </div>
+
+}
+

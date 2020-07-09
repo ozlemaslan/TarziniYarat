@@ -1,0 +1,117 @@
+﻿@model IEnumerable<TarziniYarat.Model.Product>
+
+@{
+    ViewBag.Title = "StokTraking";
+    Layout = "~/Areas/Admin/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h2>Stok Listesi</h2>
+
+<br />
+<table class="table">
+    <tr>
+        <th>
+            Ürün Adı
+        </th>
+        <th>
+            Kritik Durum
+        </th>
+        <th>
+            Stok Seviyesi
+        </th>
+        <th>
+            Güncelle
+        </th>
+
+    </tr>
+
+    @foreach (var item in Model)
+    {
+<tr>
+    <td>
+        @Html.DisplayFor(modelItem => item.ProductName, new { @class = "btnName" })
+    </td>
+    <td>
+        @if (item.UnitsInStock < 100)
+        {
+            <span style="color:red">Stok durumu kritik seviyededir.</span>
+        }
+        else
+        {
+            <span style="color:lawngreen">Stok durumu iyi seviyededir.</span>
+
+        }
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.UnitsInStock)
+    </td>
+    <td>
+        <a href="/Admin/MembersOrder/GetProduct/@item.ProductID" class="btn btn-success">Güncelle</a>
+    </td>
+</tr>
+    }
+
+</table>
+
+<br />
+<hr />
+
+<div>
+   
+<br />
+@Html.ActionLink("Ürün Ekleme Sayfasına Git", "CreateProduct","AdminProcess")
+
+@section scripts{
+
+    <script>
+
+        //Güncelleme
+
+        //$("#btnUpdateChange").click(function () {
+        //    var productID = $(this).attr("dataID");
+        //    var product = {
+        //        "UnitsInStock": $("#stokName").val(),
+        //        "ProductID": productID,
+        //    }
+        //    $.ajax({
+        //        url: "/AdminProcess/UpdateStok/",
+        //        type: "POST",
+        //        data: product,
+        //        success: function (resp) {
+        //            if (resp == "ok") {
+        //                alert("Güncelleme Başarılı")
+        //                window.location.reload();
+        //            }
+
+        //        },
+        //        onerror: function (err) {
+        //            alert("İstek başarısız.")
+        //            console.log(err);
+        //        }
+        //    })
+        //})
+
+        ////Güncellenecek verilerin gelmesi
+
+        //$(".btnUpdate").click(function () {
+        //    var productID = $(this).attr("dataID");
+        //    $.ajax({
+        //        url: "/AdminProcess/GetProduct/" + productID,
+        //        type: "POST",
+        //        success: function (resp) {
+        //            if (resp != null) {
+        //                $("#stokName").val(resp.UnitsInStock);
+        //                $("#btnUpdateChange").attr("dataID", productID);
+        //            }
+        //        },
+        //        onerror: function (err) {
+        //            alert("Hata Oluştu.")
+        //            console.log(err);
+        //        }
+        //    })
+        //})
+
+       
+    </script>
+
+}

@@ -1,0 +1,163 @@
+﻿@model IEnumerable<TarziniYarat.Model.Product>
+
+@{ ViewBag.Title = "ProductList";
+    Layout = "~/Areas/Admin/Views/Shared/_AdminLayout.cshtml"; }
+
+
+<h2>Ürün Listesi</h2>
+<br />
+<table class="table table-bordered">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.ProductTitle)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ProductName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Description)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Color)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.BodySize)
+        </th>
+
+        <th>
+            @Html.DisplayNameFor(model => model.UnitsInStock)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CreatedDate)
+
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.IsActive)
+        </th>
+        <th>
+            Güncelle
+        </th>
+        <th>
+            Aktif/Pasif
+        </th>
+        <th>
+            Sil
+        </th>
+
+        <th>
+            @Html.DisplayNameFor(model => model.Photo)
+        </th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+<tr>
+    <td>
+        @Html.DisplayFor(modelItem => item.ProductTitle, new { @class = "btnName" })
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.ProductName, new { @class = "btnName" })
+
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Description, new { @class = "btnName" })
+
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Color, new { @class = "btnName" })
+
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.BodySize, new { @class = "btnName" })
+
+    </td>
+
+    <td>
+        @Html.DisplayFor(modelItem => item.UnitsInStock, new { @class = "btnName" })
+
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.CreatedDate)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.IsActive)
+    </td>
+
+    <td>
+
+        @Html.ActionLink("Güncelle", "UpdateProduct", new { id = item.ProductID }, new { @class = "btn btn-success" })
+
+    </td>
+    <td>
+        <button href="#" name="brandActive" class="btn btn-primary  btnActivate" data="@item.ProductID">
+            Aktif/Pasif
+        </button>
+    </td>
+    <td>@Html.ActionLink("Sil", "DeleteProduct", new { id = item.ProductID }, new { @class = "btn btn-danger", onclick = "return confirm('Gerçekten silmek istiyor musunuz?')" })</td>
+
+    <td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Photo, new { @class = "btnName" })
+
+    </td>
+</tr>
+}
+
+</table>
+
+
+<br />
+<hr />
+@Html.ActionLink("Ürün Ekleme Sayfasına Git", "CreateProduct")
+
+
+@section scripts{
+
+    <script>
+        $(".btnActivate").click(function () {
+            var productID = $(this).attr("data");
+            var product = {
+                "IsActıve": $("#brandActive").val(),
+                "ProductID": productID,
+            }
+            $.ajax({
+                type: "POST",
+                url: "/AdminProcess/ActivateProduct/" + productID,
+                data: product,
+                success: function (resp) {
+                    if (resp == "ok") {
+                        alert("Başarıyla değiştirildi");
+                        window.location.reload();
+                    }
+                    else {
+                        alert("İşlemde bir hata oluştu.");
+                        console.log(err);
+                    }
+                }
+            });
+        });
+
+        //Hard Silme
+
+        $(".btnDelete").click(function () {
+            var productID = $(this).attr("dataproductID");
+            $.ajax({
+                url: "/AdminProcess/DeleteProduct/" + productID,
+                type: "POST",
+                success: function (data) {
+                    if (data == "ok") {
+                        alert("Silme İşlemi Başarılı");
+                        window.location.reload();
+                    }
+                },
+                error: function (err) {
+                    alert("Hata Oluştu.");
+                    console.log(err);
+                }
+            });
+        })</script>
+
+
+
+
+}

@@ -1,0 +1,25 @@
+﻿@model TarziniYarat.Model.Category
+
+@{
+    ViewBag.Title = "AddCategory";
+    Layout = "~/Areas/Admin/Views/Shared/_AdminLayout.cshtml";
+}
+<h2>Kategori Ekle</h2>
+<br />
+@using (Html.BeginForm())
+{
+    <div class="col-md-12 form-group">
+        @Html.TextBoxFor(a => a.CategoryName, new { @class = "form-control", type = "text", placeholder = "Kategori adı giriniz", required = "required", autofocus = "autofocus" })
+    </div>
+    <div class="col-md-12 form-group">
+        @Html.TextBoxFor(a => a.Description, new { @class = "form-control", type = "text", placeholder = "Açıklama giriniz", required = "required" })
+    </div>
+    <div class="col-md-12 form-group">
+        <button class="btn btn-info form-control" type="submit">Kaydet</button>
+
+    </div>
+    <div>
+        @Html.ActionLink("Kategori Listesine Git", "CategoryList")
+    </div>
+}
+<br />

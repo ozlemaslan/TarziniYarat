@@ -1,0 +1,172 @@
+﻿@model IEnumerable<TarziniYarat.Model.Product>
+
+@{
+    ViewBag.Title = "Shop";
+    Layout = "~/Views/Shared/_LayoutSites.cshtml";
+}
+
+
+
+@using (Html.BeginForm("Shop", "Sites", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+    <!--================Home Banner Area =================-->
+
+    <section class="banner_area">
+        <div class="banner_inner d-flex align-items-center">
+            <div class="container">
+                <div class="banner_content text-center">
+                    <h2>Alış-Veriş</h2>
+                    <div class="page_link">
+                        <a href="/Sites/HomePage">Ana Sayfa</a>
+                        <a href="/Sites/Shop">Ürünler</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!--================End Home Banner Area =================-->
+    <!--================Category Product Area =================-->
+    <section class="cat_product_area section_gap">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-3">
+                    <div class="left_sidebar_area">
+                        <aside class="left_widgets cat_widgets">
+                            <div class="l_w_title">
+                                <h3>KATEGORİLER</h3>
+                            </div>
+                            <div class="widgets_inner" style="overflow:initial">
+                                <table class="table table-hover">
+                                    @foreach (TarziniYarat.Model.Category item in ViewBag.Category)
+                                    {
+                                        <tr>
+                                            <td>
+                                                @Html.ActionLink(item.CategoryName, "Shop", new { catID = item.CategoryID })
+                                            </td>
+                                        </tr>
+                                    }
+                                </table>
+                            </div>
+                        </aside>
+                    </div>
+                </div>
+                <div class="col-3">
+                    <div class="left_sidebar_area">
+                        <aside class="left_widgets cat_widgets">
+                            <div class="l_w_title">
+                                <h3>MARKALAR</h3>
+                            </div>
+                            <div class="widgets_inner" style="overflow:initial">
+                                <table class="table table-hover">
+                                    @foreach (TarziniYarat.Model.Brand item in ViewBag.Brand)
+                                    {
+                                        <tr>
+                                            <td>
+                                                @Html.ActionLink(item.CompanyName, "Shop", new { brandID = item.BrandID })
+                                            </td>
+                                        </tr>
+                                    }
+                                </table>
+                            </div>
+                        </aside>
+                    </div>
+                </div>
+                <div class="col-3">
+                    <aside class="left_widgets p_filter_widgets">
+                        <div class="l_w_title">
+                            <h3>BEDEN</h3>
+                        </div>
+                        <div class="widgets_inner" style="overflow:auto">
+                            <table class="table table-bordered">
+                                <tr>
+                                    @foreach (TarziniYarat.Model.Size item in ViewBag.Size)
+                                    {
+                                        <td> @Html.ActionLink(item.ToString(), "Shop", new { sizeID = (int)item })</td>
+                                    }
+                                </tr>
+                            </table>
+                        </div>
+                    </aside>
+                </div>
+                <div class="col-3">
+                    <aside class="left_widgets p_filter_widgets">
+                        <div class="l_w_title">
+                            <h3>RENK</h3>
+                        </div>
+                        <div class="widgets_inner">
+                            <div class="table-responsive-md" style="overflow:auto">
+                                <table class="table table-bordered">
+                                    <tr>
+                                        @foreach (TarziniYarat.Model.Color item in ViewBag.Color)
+                                        {
+                                            <td> @Html.ActionLink(item.ToString(), "Shop", new { colorID = (int)item })</td>
+                                        }
+                                    </tr>
+                                </table>
+                            </div>
+                        </div>
+                    </aside>
+                </div>
+            </div>
+        </div>
+        <div class="latest_product_inner row">
+            @foreach (TarziniYarat.Model.Product item in Model)
+            {
+                <div class="col-lg-4 col-md-4 col-sm-6">
+                    <div class="f_p_item">
+                        <div class="f_p_img">
+                            @{
+                                var base65 = Convert.ToBase64String(item.Photo);
+                                var img2 = string.Format("data:image/gif;base64,{0}", base65);
+                            }
+                            <img class="img-fluid" src="@img2" style="max-height:300px;max-width:250px;" />
+                        </div>
+                        @*<a href="/Sites/ProductDetail">
+                                <h4>@item.ProductName</h4>
+                            </a>*@
+                        @Html.ActionLink(item.ProductName, "ProductDetail", new { id = item.ProductID })
+                        <h5>@item.UnitPrice TL</h5>
+                    </div>
+                </div>
+            }
+        </div>
+        <br />
+        <div class="row">
+            <nav class="cat_page mx-auto" aria-label="Page navigation example">
+                <ul class="pagination">
+                    <li class="page-item">
+                        <a class="page-link" href="#">
+                            <i class="fa fa-chevron-left" aria-hidden="true"></i>
+                        </a>
+                    </li>
+                    <li class="page-item active">
+                        <a class="page-link" href="#">01</a>
+                    </li>
+                    <li class="page-item">
+                        <a class="page-link" href="#">02</a>
+                    </li>
+                    <li class="page-item">
+                        <a class="page-link" href="#">03</a>
+                    </li>
+                    <li class="page-item blank">
+                        <a class="page-link" href="#">...</a>
+                    </li>
+                    <li class="page-item">
+                        <a class="page-link" href="#">09</a>
+                    </li>
+                    <li class="page-item">
+                        <a class="page-link" href="#">
+                            <i class="fa fa-chevron-right" aria-hidden="true"></i>
+                        </a>
+                    </li>
+                </ul>
+            </nav>
+        </div>
+        @*</div>
+            </div>*@
+    </section>
+    <!--================End Category Product Area =================-->
+}
+
+
+

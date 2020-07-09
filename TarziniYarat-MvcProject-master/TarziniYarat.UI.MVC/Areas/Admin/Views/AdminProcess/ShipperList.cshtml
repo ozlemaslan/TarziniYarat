@@ -1,0 +1,172 @@
+﻿@model IEnumerable<TarziniYarat.Model.Shipper>
+
+@{
+    ViewBag.Title = "ShipperList";
+    Layout = "~/Areas/Admin/Views/Shared/_AdminLayout.cshtml";
+}
+
+
+<h2>Kargo Şirketleri</h2>
+<br />
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.CompanyName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Phone)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.IsActive)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CreatedDate)
+        </th>
+        <th>
+            Güncelle
+        </th>
+        <th>
+            Aktif/Pasif
+        </th>
+        <th>
+            Sil
+        </th>
+       
+    </tr>
+
+    @foreach (var item in Model)
+    {
+<tr>
+    <td>
+        @Html.DisplayFor(modelItem => item.CompanyName)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Phone)
+    </td>
+    <td>
+        @item.IsActive
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.CreatedDate)
+    </td>
+    <td>
+        <a href="/Admin/AdminProcess/GetShipper/@item.ShipperID" class="btn btn-success">Güncelle</a>
+    </td>
+    <td>
+        <button href="#" name="brandActive" class="btn btn-primary  btnActivate" data="@item.ShipperID">
+            Aktif/Pasif
+        </button>
+    </td>
+    <td>@Html.ActionLink("Sil", "DeleteShipper", new { id = item.ShipperID }, new { @class = "btn btn-danger", onclick = "return confirm('Gerçekten silmek istiyor musunuz?')" })</td>
+
+    <td>
+   
+</tr>
+    }
+</table>
+<br />
+
+<br />
+@Html.ActionLink("Kargo Şirketi Ekleme Sayfasına Git", "AddShipper")
+
+@section scripts{
+
+    <script>
+
+        //Güncelleme İşlemi
+
+        //$("#btnUpdateChange").click(function () {
+        //    var shipperID = $(this).attr("dataID");
+        //    var shipper = {
+        //        "CompanyName": $("#companyName").val(),
+        //        "Phone": $("#phone").val(),
+        //        "ShipperID": shipperID,
+        //    }
+        //    $.ajax({
+        //        url: "/AdminProcess/UpdateShipper/",
+        //        type: "POST",
+        //        data: shipper,
+        //        success: function (resp) {
+        //            if (resp == "ok") {
+        //                alert("Güncelleme Başarılı")
+        //                window.location.reload();
+        //            }
+
+        //        },
+        //        onerror: function (err) {
+        //            alert("İstek başarısız.")
+        //            console.log(err);
+        //        }
+        //    })
+        //})
+
+        ////Güncellenecek Verilerin Getirilmesi
+
+        //$(".btnUpdate").click(function () {
+        //    var shipperID = $(this).attr("dataID");
+        //    $.ajax({
+        //        url: "/AdminProcess/GetShipper/" + shipperID,
+        //        type: "POST",
+        //        success: function (resp) {
+        //            if (resp != null) {
+        //                $("#companyName").val(resp.CompanyName);
+        //                $("#phone").val(resp.Phone);
+        //                $("#btnUpdateChange").attr("dataID", shipperID);
+        //            }
+        //        },
+        //        onerror: function (err) {
+        //            alert("Hata Oluştu.")
+        //            console.log(err);
+        //        }
+        //    })
+        //})
+
+
+        //Pasifleştirme
+
+        $(".btnActivate").click(function () {
+            var shipperID = $(this).attr("data");
+            var shipper = {
+                "IsActıve": $("#shipperActive").val(),
+                "ShipperID": shipperID,
+            }
+            $.ajax({
+                type: "POST",
+                url: "/AdminProcess/ActiveShipper/" + shipperID,
+                data: shipper,
+                success: function (resp) {
+                    if (resp == "ok") {
+                        alert("Başarıyla değiştirildi");
+                        window.location.reload();
+                    }
+                    else {
+                        alert("İşlemde bir hata oluştu.");
+                        console.log(err);
+                    }
+                }
+            });
+        });
+
+        //Hard Silme
+
+        $(".btnDelete").click(function () {
+            var shipperID = $(this).attr("dataShipperID");
+            $.ajax({
+                url: "/AdminProcess/DeleteShipper/" + shipperID,
+                type: "POST",
+                success: function (data) {
+                    if (data == "ok") {
+                        alert("Silme İşlemi Başarılı");
+                        window.location.reload();
+                    }
+                },
+                error: function (err) {
+                    alert("Hata Oluştu.");
+                    console.log(err);
+                }
+            });
+        })
+    </script>
+
+}

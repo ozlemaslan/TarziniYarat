@@ -1,0 +1,25 @@
+﻿@model TarziniYarat.Model.Shipper
+
+@{
+    ViewBag.Title = "AddShipper";
+    Layout = "~/Areas/Admin/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h2>Kargo Şirketi Ekle</h2>
+<br />
+@using (Html.BeginForm())
+{
+    <div class="col-md-12 form-group">
+        @Html.TextBoxFor(a => a.CompanyName, new { @class = "form-control", type = "text", placeholder = "Şirket adı giriniz", required = "required", autofocus = "autofocus" })
+    </div>
+    <div class="col-md-12 form-group">
+        @Html.TextBoxFor(a => a.Phone, new { @class = "form-control", type = "tel", placeholder = "Telefon numarası giriniz", required = "required" })
+    </div>
+    <div class="col-md-12 form-group">
+        <button class="btn btn-info form-control" type="submit">Kaydet</button>
+    </div>
+    <div>
+        @Html.ActionLink("Kargo Şirketleri Listesine Git", "ShipperList")
+    </div>
+}
+<br />

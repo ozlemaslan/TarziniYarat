@@ -1,0 +1,174 @@
+C:\Users\Kubra SEYREK\Desktop\TarziniYarat-MvcProjesi\TarziniYarat.Model\bin\Debug\TarziniYarat.Model.dll.config
+C:\Users\Kubra SEYREK\Desktop\TarziniYarat-MvcProjesi\TarziniYarat.Model\bin\Debug\TarziniYarat.Model.dll
+C:\Users\Kubra SEYREK\Desktop\TarziniYarat-MvcProjesi\TarziniYarat.Model\bin\Debug\TarziniYarat.Model.pdb
+C:\Users\Kubra SEYREK\Desktop\TarziniYarat-MvcProjesi\TarziniYarat.Model\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Kubra SEYREK\Desktop\TarziniYarat-MvcProjesi\TarziniYarat.Model\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Kubra SEYREK\Desktop\TarziniYarat-MvcProjesi\TarziniYarat.Model\bin\Debug\System.Buffers.dll
+C:\Users\Kubra SEYREK\Desktop\TarziniYarat-MvcProjesi\TarziniYarat.Model\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Kubra SEYREK\Desktop\TarziniYarat-MvcProjesi\TarziniYarat.Model\bin\Debug\System.Memory.dll
+C:\Users\Kubra SEYREK\Desktop\TarziniYarat-MvcProjesi\TarziniYarat.Model\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Kubra SEYREK\Desktop\TarziniYarat-MvcProjesi\TarziniYarat.Model\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Kubra SEYREK\Desktop\TarziniYarat-MvcProjesi\TarziniYarat.Model\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Kubra SEYREK\Desktop\TarziniYarat-MvcProjesi\TarziniYarat.Model\bin\Debug\TarziniYarat.Core.dll
+C:\Users\Kubra SEYREK\Desktop\TarziniYarat-MvcProjesi\TarziniYarat.Model\bin\Debug\EntityFramework.dll
+C:\Users\Kubra SEYREK\Desktop\TarziniYarat-MvcProjesi\TarziniYarat.Model\bin\Debug\TarziniYarat.Core.pdb
+C:\Users\Kubra SEYREK\Desktop\TarziniYarat-MvcProjesi\TarziniYarat.Model\bin\Debug\TarziniYarat.Core.dll.config
+C:\Users\Kubra SEYREK\Desktop\TarziniYarat-MvcProjesi\TarziniYarat.Model\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\Kubra SEYREK\Desktop\TarziniYarat-MvcProjesi\TarziniYarat.Model\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Kubra SEYREK\Desktop\TarziniYarat-MvcProjesi\TarziniYarat.Model\bin\Debug\System.Buffers.xml
+C:\Users\Kubra SEYREK\Desktop\TarziniYarat-MvcProjesi\TarziniYarat.Model\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Kubra SEYREK\Desktop\TarziniYarat-MvcProjesi\TarziniYarat.Model\bin\Debug\System.Memory.xml
+C:\Users\Kubra SEYREK\Desktop\TarziniYarat-MvcProjesi\TarziniYarat.Model\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Kubra SEYREK\Desktop\TarziniYarat-MvcProjesi\TarziniYarat.Model\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Kubra SEYREK\Desktop\TarziniYarat-MvcProjesi\TarziniYarat.Model\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Kubra SEYREK\Desktop\TarziniYarat-MvcProjesi\TarziniYarat.Model\bin\Debug\EntityFramework.xml
+C:\Users\Kubra SEYREK\Desktop\TarziniYarat-MvcProjesi\TarziniYarat.Model\obj\Debug\TarziniYarat.Model.csprojAssemblyReference.cache
+C:\Users\Kubra SEYREK\Desktop\TarziniYarat-MvcProjesi\TarziniYarat.Model\obj\Debug\TarziniYarat.Model.csproj.CoreCompileInputs.cache
+C:\Users\Kubra SEYREK\Desktop\TarziniYarat-MvcProjesi\TarziniYarat.Model\obj\Debug\TarziniYarat.Model.csproj.CopyComplete
+C:\Users\Kubra SEYREK\Desktop\TarziniYarat-MvcProjesi\TarziniYarat.Model\obj\Debug\TarziniYarat.Model.dll
+C:\Users\Kubra SEYREK\Desktop\TarziniYarat-MvcProjesi\TarziniYarat.Model\obj\Debug\TarziniYarat.Model.pdb
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject3\TarziniYarat.Model\bin\Debug\TarziniYarat.Model.dll.config
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject3\TarziniYarat.Model\bin\Debug\TarziniYarat.Model.dll
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject3\TarziniYarat.Model\bin\Debug\TarziniYarat.Model.pdb
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject3\TarziniYarat.Model\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject3\TarziniYarat.Model\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject3\TarziniYarat.Model\bin\Debug\System.Buffers.dll
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject3\TarziniYarat.Model\bin\Debug\System.IO.Pipelines.dll
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject3\TarziniYarat.Model\bin\Debug\System.Memory.dll
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject3\TarziniYarat.Model\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject3\TarziniYarat.Model\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject3\TarziniYarat.Model\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject3\TarziniYarat.Model\bin\Debug\TarziniYarat.Core.dll
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject3\TarziniYarat.Model\bin\Debug\EntityFramework.dll
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject3\TarziniYarat.Model\bin\Debug\TarziniYarat.Core.pdb
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject3\TarziniYarat.Model\bin\Debug\TarziniYarat.Core.dll.config
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject3\TarziniYarat.Model\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject3\TarziniYarat.Model\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject3\TarziniYarat.Model\bin\Debug\System.Buffers.xml
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject3\TarziniYarat.Model\bin\Debug\System.IO.Pipelines.xml
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject3\TarziniYarat.Model\bin\Debug\System.Memory.xml
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject3\TarziniYarat.Model\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject3\TarziniYarat.Model\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject3\TarziniYarat.Model\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject3\TarziniYarat.Model\bin\Debug\EntityFramework.xml
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject3\TarziniYarat.Model\obj\Debug\TarziniYarat.Model.csprojAssemblyReference.cache
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject3\TarziniYarat.Model\obj\Debug\TarziniYarat.Model.csproj.CoreCompileInputs.cache
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject3\TarziniYarat.Model\obj\Debug\TarziniYarat.Model.csproj.CopyComplete
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject3\TarziniYarat.Model\obj\Debug\TarziniYarat.Model.dll
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject3\TarziniYarat.Model\obj\Debug\TarziniYarat.Model.pdb
+C:\Users\ozlem\Source\Repos\TarziniYarat-MvcProject\TarziniYarat.Model\bin\Debug\TarziniYarat.Model.dll.config
+C:\Users\ozlem\Source\Repos\TarziniYarat-MvcProject\TarziniYarat.Model\bin\Debug\TarziniYarat.Model.dll
+C:\Users\ozlem\Source\Repos\TarziniYarat-MvcProject\TarziniYarat.Model\bin\Debug\TarziniYarat.Model.pdb
+C:\Users\ozlem\Source\Repos\TarziniYarat-MvcProject\TarziniYarat.Model\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\ozlem\Source\Repos\TarziniYarat-MvcProject\TarziniYarat.Model\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\ozlem\Source\Repos\TarziniYarat-MvcProject\TarziniYarat.Model\bin\Debug\System.Buffers.dll
+C:\Users\ozlem\Source\Repos\TarziniYarat-MvcProject\TarziniYarat.Model\bin\Debug\System.IO.Pipelines.dll
+C:\Users\ozlem\Source\Repos\TarziniYarat-MvcProject\TarziniYarat.Model\bin\Debug\System.Memory.dll
+C:\Users\ozlem\Source\Repos\TarziniYarat-MvcProject\TarziniYarat.Model\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ozlem\Source\Repos\TarziniYarat-MvcProject\TarziniYarat.Model\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ozlem\Source\Repos\TarziniYarat-MvcProject\TarziniYarat.Model\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ozlem\Source\Repos\TarziniYarat-MvcProject\TarziniYarat.Model\bin\Debug\TarziniYarat.Core.dll
+C:\Users\ozlem\Source\Repos\TarziniYarat-MvcProject\TarziniYarat.Model\bin\Debug\EntityFramework.dll
+C:\Users\ozlem\Source\Repos\TarziniYarat-MvcProject\TarziniYarat.Model\bin\Debug\TarziniYarat.Core.pdb
+C:\Users\ozlem\Source\Repos\TarziniYarat-MvcProject\TarziniYarat.Model\bin\Debug\TarziniYarat.Core.dll.config
+C:\Users\ozlem\Source\Repos\TarziniYarat-MvcProject\TarziniYarat.Model\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\ozlem\Source\Repos\TarziniYarat-MvcProject\TarziniYarat.Model\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\ozlem\Source\Repos\TarziniYarat-MvcProject\TarziniYarat.Model\bin\Debug\System.Buffers.xml
+C:\Users\ozlem\Source\Repos\TarziniYarat-MvcProject\TarziniYarat.Model\bin\Debug\System.IO.Pipelines.xml
+C:\Users\ozlem\Source\Repos\TarziniYarat-MvcProject\TarziniYarat.Model\bin\Debug\System.Memory.xml
+C:\Users\ozlem\Source\Repos\TarziniYarat-MvcProject\TarziniYarat.Model\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ozlem\Source\Repos\TarziniYarat-MvcProject\TarziniYarat.Model\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ozlem\Source\Repos\TarziniYarat-MvcProject\TarziniYarat.Model\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ozlem\Source\Repos\TarziniYarat-MvcProject\TarziniYarat.Model\bin\Debug\EntityFramework.xml
+C:\Users\ozlem\Source\Repos\TarziniYarat-MvcProject\TarziniYarat.Model\obj\Debug\TarziniYarat.Model.csprojAssemblyReference.cache
+C:\Users\ozlem\Source\Repos\TarziniYarat-MvcProject\TarziniYarat.Model\obj\Debug\TarziniYarat.Model.csproj.CoreCompileInputs.cache
+C:\Users\ozlem\Source\Repos\TarziniYarat-MvcProject\TarziniYarat.Model\obj\Debug\TarziniYarat.Model.csproj.CopyComplete
+C:\Users\ozlem\Source\Repos\TarziniYarat-MvcProject\TarziniYarat.Model\obj\Debug\TarziniYarat.Model.dll
+C:\Users\ozlem\Source\Repos\TarziniYarat-MvcProject\TarziniYarat.Model\obj\Debug\TarziniYarat.Model.pdb
+C:\Users\Kubra SEYREK\Source\Repos\TarziniYarat-MvcProject\TarziniYarat.Model\bin\Debug\TarziniYarat.Model.dll.config
+C:\Users\Kubra SEYREK\Source\Repos\TarziniYarat-MvcProject\TarziniYarat.Model\bin\Debug\TarziniYarat.Model.dll
+C:\Users\Kubra SEYREK\Source\Repos\TarziniYarat-MvcProject\TarziniYarat.Model\bin\Debug\TarziniYarat.Model.pdb
+C:\Users\Kubra SEYREK\Source\Repos\TarziniYarat-MvcProject\TarziniYarat.Model\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Kubra SEYREK\Source\Repos\TarziniYarat-MvcProject\TarziniYarat.Model\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Kubra SEYREK\Source\Repos\TarziniYarat-MvcProject\TarziniYarat.Model\bin\Debug\System.Buffers.dll
+C:\Users\Kubra SEYREK\Source\Repos\TarziniYarat-MvcProject\TarziniYarat.Model\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Kubra SEYREK\Source\Repos\TarziniYarat-MvcProject\TarziniYarat.Model\bin\Debug\System.Memory.dll
+C:\Users\Kubra SEYREK\Source\Repos\TarziniYarat-MvcProject\TarziniYarat.Model\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Kubra SEYREK\Source\Repos\TarziniYarat-MvcProject\TarziniYarat.Model\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Kubra SEYREK\Source\Repos\TarziniYarat-MvcProject\TarziniYarat.Model\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Kubra SEYREK\Source\Repos\TarziniYarat-MvcProject\TarziniYarat.Model\bin\Debug\TarziniYarat.Core.dll
+C:\Users\Kubra SEYREK\Source\Repos\TarziniYarat-MvcProject\TarziniYarat.Model\bin\Debug\EntityFramework.dll
+C:\Users\Kubra SEYREK\Source\Repos\TarziniYarat-MvcProject\TarziniYarat.Model\bin\Debug\TarziniYarat.Core.pdb
+C:\Users\Kubra SEYREK\Source\Repos\TarziniYarat-MvcProject\TarziniYarat.Model\bin\Debug\TarziniYarat.Core.dll.config
+C:\Users\Kubra SEYREK\Source\Repos\TarziniYarat-MvcProject\TarziniYarat.Model\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\Kubra SEYREK\Source\Repos\TarziniYarat-MvcProject\TarziniYarat.Model\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Kubra SEYREK\Source\Repos\TarziniYarat-MvcProject\TarziniYarat.Model\bin\Debug\System.Buffers.xml
+C:\Users\Kubra SEYREK\Source\Repos\TarziniYarat-MvcProject\TarziniYarat.Model\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Kubra SEYREK\Source\Repos\TarziniYarat-MvcProject\TarziniYarat.Model\bin\Debug\System.Memory.xml
+C:\Users\Kubra SEYREK\Source\Repos\TarziniYarat-MvcProject\TarziniYarat.Model\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Kubra SEYREK\Source\Repos\TarziniYarat-MvcProject\TarziniYarat.Model\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Kubra SEYREK\Source\Repos\TarziniYarat-MvcProject\TarziniYarat.Model\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Kubra SEYREK\Source\Repos\TarziniYarat-MvcProject\TarziniYarat.Model\bin\Debug\EntityFramework.xml
+C:\Users\Kubra SEYREK\Source\Repos\TarziniYarat-MvcProject\TarziniYarat.Model\obj\Debug\TarziniYarat.Model.csprojAssemblyReference.cache
+C:\Users\Kubra SEYREK\Source\Repos\TarziniYarat-MvcProject\TarziniYarat.Model\obj\Debug\TarziniYarat.Model.csproj.CoreCompileInputs.cache
+C:\Users\Kubra SEYREK\Source\Repos\TarziniYarat-MvcProject\TarziniYarat.Model\obj\Debug\TarziniYarat.Model.csproj.CopyComplete
+C:\Users\Kubra SEYREK\Source\Repos\TarziniYarat-MvcProject\TarziniYarat.Model\obj\Debug\TarziniYarat.Model.dll
+C:\Users\Kubra SEYREK\Source\Repos\TarziniYarat-MvcProject\TarziniYarat.Model\obj\Debug\TarziniYarat.Model.pdb
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject.Son\TarziniYarat.Model\bin\Debug\TarziniYarat.Model.dll.config
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject.Son\TarziniYarat.Model\bin\Debug\TarziniYarat.Model.dll
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject.Son\TarziniYarat.Model\bin\Debug\TarziniYarat.Model.pdb
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject.Son\TarziniYarat.Model\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject.Son\TarziniYarat.Model\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject.Son\TarziniYarat.Model\bin\Debug\System.Buffers.dll
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject.Son\TarziniYarat.Model\bin\Debug\System.IO.Pipelines.dll
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject.Son\TarziniYarat.Model\bin\Debug\System.Memory.dll
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject.Son\TarziniYarat.Model\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject.Son\TarziniYarat.Model\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject.Son\TarziniYarat.Model\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject.Son\TarziniYarat.Model\bin\Debug\TarziniYarat.Core.dll
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject.Son\TarziniYarat.Model\bin\Debug\EntityFramework.dll
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject.Son\TarziniYarat.Model\bin\Debug\TarziniYarat.Core.pdb
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject.Son\TarziniYarat.Model\bin\Debug\TarziniYarat.Core.dll.config
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject.Son\TarziniYarat.Model\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject.Son\TarziniYarat.Model\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject.Son\TarziniYarat.Model\bin\Debug\System.Buffers.xml
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject.Son\TarziniYarat.Model\bin\Debug\System.IO.Pipelines.xml
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject.Son\TarziniYarat.Model\bin\Debug\System.Memory.xml
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject.Son\TarziniYarat.Model\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject.Son\TarziniYarat.Model\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject.Son\TarziniYarat.Model\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject.Son\TarziniYarat.Model\bin\Debug\EntityFramework.xml
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject.Son\TarziniYarat.Model\obj\Debug\TarziniYarat.Model.csprojAssemblyReference.cache
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject.Son\TarziniYarat.Model\obj\Debug\TarziniYarat.Model.csproj.CoreCompileInputs.cache
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject.Son\TarziniYarat.Model\obj\Debug\TarziniYarat.Model.csproj.CopyComplete
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject.Son\TarziniYarat.Model\obj\Debug\TarziniYarat.Model.dll
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject.Son\TarziniYarat.Model\obj\Debug\TarziniYarat.Model.pdb
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject.Guncel\TarziniYarat.Model\bin\Debug\TarziniYarat.Model.dll.config
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject.Guncel\TarziniYarat.Model\bin\Debug\TarziniYarat.Model.dll
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject.Guncel\TarziniYarat.Model\bin\Debug\TarziniYarat.Model.pdb
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject.Guncel\TarziniYarat.Model\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject.Guncel\TarziniYarat.Model\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject.Guncel\TarziniYarat.Model\bin\Debug\System.Buffers.dll
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject.Guncel\TarziniYarat.Model\bin\Debug\System.IO.Pipelines.dll
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject.Guncel\TarziniYarat.Model\bin\Debug\System.Memory.dll
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject.Guncel\TarziniYarat.Model\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject.Guncel\TarziniYarat.Model\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject.Guncel\TarziniYarat.Model\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject.Guncel\TarziniYarat.Model\bin\Debug\TarziniYarat.Core.dll
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject.Guncel\TarziniYarat.Model\bin\Debug\EntityFramework.dll
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject.Guncel\TarziniYarat.Model\bin\Debug\TarziniYarat.Core.pdb
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject.Guncel\TarziniYarat.Model\bin\Debug\TarziniYarat.Core.dll.config
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject.Guncel\TarziniYarat.Model\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject.Guncel\TarziniYarat.Model\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject.Guncel\TarziniYarat.Model\bin\Debug\System.Buffers.xml
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject.Guncel\TarziniYarat.Model\bin\Debug\System.IO.Pipelines.xml
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject.Guncel\TarziniYarat.Model\bin\Debug\System.Memory.xml
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject.Guncel\TarziniYarat.Model\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject.Guncel\TarziniYarat.Model\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject.Guncel\TarziniYarat.Model\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject.Guncel\TarziniYarat.Model\bin\Debug\EntityFramework.xml
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject.Guncel\TarziniYarat.Model\obj\Debug\TarziniYarat.Model.csprojAssemblyReference.cache
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject.Guncel\TarziniYarat.Model\obj\Debug\TarziniYarat.Model.csproj.CoreCompileInputs.cache
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject.Guncel\TarziniYarat.Model\obj\Debug\TarziniYarat.Model.csproj.CopyComplete
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject.Guncel\TarziniYarat.Model\obj\Debug\TarziniYarat.Model.dll
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject.Guncel\TarziniYarat.Model\obj\Debug\TarziniYarat.Model.pdb

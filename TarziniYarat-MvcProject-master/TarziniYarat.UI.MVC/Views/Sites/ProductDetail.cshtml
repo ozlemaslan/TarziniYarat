@@ -1,0 +1,158 @@
+﻿@model TarziniYarat.Model.Product
+@{
+    ViewBag.Title = "ProductDetail";
+    Layout = "~/Views/Shared/_LayoutSites.cshtml";
+}
+
+
+<!--================Home Banner Area =================-->
+<section class="banner_area">
+    <div class="banner_inner d-flex align-items-center">
+        <div class="container">
+            <div class="banner_content text-center">
+                <br />
+                <br />
+                <h2>Ürün Detay</h2>
+                <div class="page_link">
+                    <a href="/Sites/HomePage">Ana Sayfa</a>
+                    <a href="/Sites/ProductDetail">Ürün Detay</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!--================End Home Banner Area =================-->
+<!--================Single Product Area =================-->
+<div class="product_image_area">
+    <div class="container">
+        <div class="row s_product_inner">
+            <div class="col-lg-6">
+                <div class="s_product_img">
+                    <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+                        <div class="carousel-inner">
+                            <div class="carousel-item active">
+                                @{
+                                    var base65 = Convert.ToBase64String(Model.Photo);
+                                    var img2 = string.Format("data:image/gif;base64,{0}", base65);
+                                }
+                                <img class="d-block w-100" src="@img2" alt="First slide">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-5 offset-lg-1">
+                <div class="s_product_text">
+                    @* Ürün adı buraya *@
+                    <h3>Ürün Adı : @Model.ProductName</h3>
+                    @* Ürün fiyatı buraya *@
+                    <h2>Fiyat : @Model.UnitPrice TL</h2>
+                    @* Ürün açıklaması buraya *@
+                    @*<p><b style="color:black">Kategori :</b> @Model.Category.CategoryName </p>*@
+                    <p><b style="color:black">Ürün Açıklaması : </b>@Model.Description </p>
+                    @if (ViewBag.PersonID != null)
+                    {
+                        <div class="card_area">
+                            <a href="javascript:void(0)" data-productID="@Model.ProductID" class="addCart btn btn-primary">Sepete Ekle</a>
+                            <a href="/Card/List" class="btn btn-outline-primary">Sepete Git</a>
+                        </div>
+                    }
+                    else
+                    {
+                        <div class="card_area">
+                            <a href="/Sites/Login" data-productID="@Model.ProductID" class="addCart btn btn-primary">Sepete Ekle</a>
+                            <a href="/Sites/Login" class="btn btn-outline-primary">Sepete Git</a>
+                        </div>
+                    }
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!--================End Single Product Area =================-->
+<!--================Product Description Area =================-->
+<section class="product_description_area">
+    <div class="container">
+        <ul class="nav nav-tabs" id="myTab" role="tablist">
+            <li class="nav-item">
+                <a class="nav-link" id="contact-tab" data-toggle="tab" href="#contact" role="tab" aria-controls="contact" aria-selected="false">Yorumlar</a>
+            </li>
+        </ul>
+        <div class="tab-content" id="myTabContent">
+            <div class="tab-pane fade" id="contact" role="tabpanel" aria-labelledby="contact-tab">
+                <div class="row">
+                    <div class="col-lg-6">
+                        <div class="comment_list">
+                            <div class="review_item">
+                                <div class="media">
+                                    @*<div class="d-flex">
+                                            <img src="~/Assets/img/review-1.png" />
+                                        </div>*@
+                                    <table class="table table-hover">
+                                        @foreach (ProductComment item in ViewBag.Comment)
+                                        {
+                                            <tr>
+                                                <td>
+                                                    <div class="media-body">
+                                                        @* Yorum yapanın adı *@
+                                                        <h4><i style="color:dimgray">@item.UserName &nbsp;&nbsp;@item.CreatedDate</i></h4>
+                                                    </div>
+                                                    <div class="media-body">
+                                                        <p>@item.Content</p>
+                                                    </div>
+                                                </td>
+                                            </tr>
+                                        }
+                                    </table>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-6">
+                        <div class="review_box">
+                            <h4>Yorum Yap</h4>
+                            @using (Html.BeginForm("ProductDetail", "Sites", FormMethod.Post, new { productID = Model.ProductID }))
+                            {
+                                @Html.HiddenFor(a => a.ProductID)
+                                <div class="col-md-12">
+                                    <div class="form-group">
+                                        @*@Html.TextAreaFor(a=>a.Content,new { @class= "form-control", placeholder = "Yorum", name = "message",id = "message" ,rows = "1" })*@
+                                        <textarea class="form-control" name="message" id="message" rows="1" placeholder="Yorum"> </textarea>
+                                    </div>
+                                </div>
+                                <div class="col-md-12 text-right">
+                                    <button type="submit" value="submit" class="btn submit_btn">Gönder</button>
+                                </div>
+                            }
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!--================End Product Description Area =================-->
+
+
+@section scripts{
+    <script>
+        $(".addCart").click(function () {
+            var productID = $(this).attr("data-productID");
+
+            $.ajax({
+                type: "GET",
+                url: "/Card/AddToCart?productID=" + productID,
+                success: function (data) {
+                    if (data == "Ürün bulunamadı") {
+                        alert("Yanlış ürün eklediniz");
+                    }
+                    else {
+                        alert("Sepetteki ürün sayısı : " + data);
+                    }
+                }
+            });
+
+        });
+    </script>
+}

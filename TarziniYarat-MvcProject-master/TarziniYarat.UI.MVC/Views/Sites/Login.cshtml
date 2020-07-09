@@ -1,0 +1,74 @@
+﻿@using TarziniYarat.UI.MVC.Models
+@model LoginViewModel
+@{ ViewBag.Title = "Login";
+    Layout = "~/Views/Shared/_LayoutSites.cshtml"; }
+
+
+<!--================Home Banner Area =================-->
+<section class="banner_area">
+    <div class="banner_inner d-flex align-items-center">
+        <div class="container">
+            <div class="banner_content text-center">
+                <br />
+                <br />
+                <h2>Giriş Yap/Üye Ol</h2>
+                <div class="page_link">
+                    <a href="/Sites/HomePage">Ana Sayfa</a>
+                    <a href="/Sites/Login">Giriş Yap</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!--================End Home Banner Area =================-->
+<!--================Login Box Area =================-->
+<section class="login_box_area p_120">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-6">
+                <div class="login_box_img">
+                    <img class="img-fluid" src="~/Assets/img/login.jpg" alt="">
+                    <div class="hover">
+                        <h4>Sitemizde Yeni Misiniz?</h4>
+                        <p>Alışveriş yapmak hiç bu kadar kolay olmamıştı. Denemek için üye olabilirsiniz...</p>
+                        <a class="main_btn" href="/Sites/Registration">
+                            Hesap oluştur
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-6">
+                <div class="login_form_inner">
+                    <h3>
+                        Siteye Girmek İçin Giriş Yapın
+                    </h3>
+                    <p class="form-control">@(ViewBag.Hata == null ? "" : ViewBag.Hata )</p>
+                    <form class="row login_form" action="/Sites/Login" method="post" id="contactForm" novalidate="novalidate">
+                        <div class="col-md-12 form-group">
+                            @Html.TextBoxFor(a => a.UserName, new { placeholder = "Mail", @class = "form-control" })
+
+
+                        </div>
+                        <div class="col-md-12 form-group">
+                            @Html.TextBoxFor(a => a.Password, new { @class = "form-control", type = "password", placeholder = "Şifre" })
+
+                        </div>
+                        <div class="col-md-12 form-group">
+                            <div class="creat_account">
+                                @Html.CheckBoxFor(a => a.RememberMe, new { @class = "input-checkbox100", id = "f-option2" })
+                                <label for="f-option2">Beni Hatırla</label>
+                            </div>
+                        </div>
+                        <div class="col-md-12 form-group">
+                            <button type="submit" value="submit" class="btn submit_btn">Giriş Yap</button>
+                            <a href="#">
+                                Parolanızı mı unuttunuz?
+                            </a>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!--================End Login Box Area =================-->

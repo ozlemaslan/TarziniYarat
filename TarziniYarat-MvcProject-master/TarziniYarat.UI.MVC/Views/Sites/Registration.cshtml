@@ -1,0 +1,82 @@
+﻿@model TarziniYarat.UI.MVC.Models.UserViewModel
+
+@{ ViewBag.Title = "Registration";
+    Layout = "~/Views/Shared/_LayoutSites.cshtml";
+}
+
+<section class="banner_area">
+    <div class="banner_inner d-flex align-items-center">
+        <div class="container">
+            <div class="banner_content text-center">
+                <h2>GirişYap/KayıtOl</h2>
+                <div class="page_link">
+                    <a href="/Sites/HomePage">Ana Sayfa</a>
+                    <a href="/Sites/Registration">Üye Ol</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!--================End Home Banner Area =================-->
+<!--================Login Box Area =================-->
+<section class="login_box_area p_120">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-6">
+                <div class="login_box_img">
+                    <img class="img-fluid" src="~/Assets/img/login.jpg" alt="">
+
+                    <div class="hover">
+                        <h4>Buralarda yeni misin?</h4>
+                        <p>Alışveriş yapabilmek, kombin yapmak, başkalarının yaptığı kombinleri görebilmek ve blog yazabilmen için kayıt olman gerekiyor.</p>
+                        <a class="main_btn" href="#">Hesap Oluştur</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-6">
+                <div class="login_form_inner reg_form">
+                    @using (Html.BeginForm("Registration", "Sites", FormMethod.Post, new { id = "contactForm" }))
+                    {
+                        <h3>Yeni Hesap Oluştur</h3>
+                        <br />
+                            <p class="alert-warning form-control">@(ViewBag.Hata == null ? "" : ViewBag.Hata )</p>                       <br />
+                        @*<form class="row login_form" action="contact_process.php" method="post" id="contactForm" novalidate="novalidate">*@
+                        <div class="col-md-12 form-group">
+                            @Html.TextBoxFor(a => a.TCKN, new { @class = "form-control", type = "number", placeholder = "T.C. Kimlik Numarası", required = "required", autofocus = "autofocus" })
+                            @*<input type="number" class="form-control" id="TCKN" name="TCKN" placeholder="T.C. Kimlik Numarası" required autofocus>*@
+                        </div>
+                        <div class="col-md-12 form-group">
+                            @Html.TextBoxFor(a => a.Name, new { @class = "form-control", type = "text", placeholder = "Ad", required = "required" })
+                            @*<input type="text" class="form-control" id="Name" name="Name" placeholder="Ad" required>*@
+                        </div>
+                        <div class="col-md-12 form-group">
+                            @Html.TextBoxFor(a => a.Surname, new { @class = "form-control", type = "text", placeholder = "Soyad", required = "required" })
+                            @*<input type="text" class="form-control" id="Surname" name="Surname" placeholder="Soyad" required>*@
+                        </div>
+                        <div class="col-md-12 form-group">
+                            @Html.TextBoxFor(a => a.BirthDate, new { @class = "form-control", type = "date", placeholder = "Doğum Tarihi", required = "required" })
+                            @*<input type="date" class="form-control" id="BirthDate" name="BirthDate" placeholder="Doğum Tarihi" required>*@
+                        </div>
+                        <div class="col-md-12 form-group">
+                            @Html.TextBoxFor(a => a.UserName, new { @class = "form-control", type = "email", placeholder = "Mail", required = "required" })
+                            @*<input type="email" class="form-control" id="Username" name="Username" placeholder="Kullanıcı Adı" required>*@
+                        </div>
+                        <div class="col-md-12 form-group">
+                            @Html.TextBoxFor(a => a.Password, new { @class = "form-control", type = "text", placeholder = "Şifre", required = "required" })
+                            @*<input type="text" class="form-control" id="Password" name="Password" placeholder="Şifre" required>*@
+                        </div>
+                        <div class="col-md-12 form-group">
+                            @*@Html.ActionLink("Kayıt Ol","Registration",new { id=3 },new { @class= "btn submit_btn", type= "submit", value= "submit" })*@
+                            <button class="btn btn-info form-control" type="submit">Kayıt Ol</button>
+                        </div>
+                        <div class="col-md-12 form-group">
+                            @Html.ActionLink("Zaten hesabınız var mı?", "Login")
+                        </div>
+                        @*</form>*@
+                    }
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!--================End Login Box Area =================-->

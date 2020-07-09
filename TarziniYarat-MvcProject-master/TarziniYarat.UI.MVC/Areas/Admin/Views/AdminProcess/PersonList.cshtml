@@ -1,0 +1,148 @@
+﻿@model List<TarziniYarat.Model.Person>
+@{
+    ViewBag.Title = "PersonList";
+    Layout = "~/Areas/Admin/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h2>Kullanıcılar</h2>
+
+
+<br />
+<table class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th>Ad</th>
+            <th>Soyad</th>
+            <th>Kullanıcı Adı</th>
+            <th>Aktiflik</th>
+            <th>Kullanıcı Rolü</th>
+            <th>Aktif/Pasif</th>
+            <th colspan="2">Rolü Değiştir</th>
+
+        </tr>
+        @foreach (TarziniYarat.Model.Person item in Model)
+        {
+            if (item.RoleID == 1)
+            {
+                <tr>
+                    <td>@item.Name</td>
+                    <td>@item.Surname</td>
+                    <td>@item.Username</td>
+                    <td>@item.IsActive</td>
+                    <td>@item.RoleID</td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+
+                </tr>
+            }
+            else
+            {
+                <tr>
+                    <td>@item.Name</td>
+                    <td>@item.Surname</td>
+                    <td>@item.Username</td>
+                    <td>@item.IsActive</td>
+                    <td>@item.RoleID</td>
+                    <td>
+                        <button href="#" name="personActive" class="btn btn-primary  btnActivate" data="@item.PersonID">
+                            Aktif/Pasif
+                        </button>
+                    <td>
+                        <button href="#" type="submit" name="uyeChange"  class="btn btn-primary  btnUyeChange" data="@item.PersonID">
+                            Üye Yap
+                        </button>
+                    </td>
+                    <td>
+                        <button href="#" name="modelistChange" type="submit" class="btn btn-primary  btnModelistChange" data="@item.PersonID">
+                            Modelist Yap
+                        </button>
+                    </td>
+                   
+                </tr>
+            }
+        }
+    </thead>
+</table>
+<br />
+@section scripts{
+    <script>
+
+        // Aktif/Pasif Yapma
+
+        $(".btnActivate").click(function () {
+            var personID = $(this).attr("data");
+            var person = {
+                "IsActıve": $("#personActive").val(),
+                "PersonID": personID,
+            }
+            $.ajax({
+                type: "POST",
+                url: "/AdminProcess/ActivatePerson/"+ personID,
+                data:person,
+                success: function (resp) {
+                    if (resp == "ok") {
+                        alert("Başarıyla değiştirildi");
+                        window.location.reload();
+                    }
+                    else {
+                        alert("İşlemde bir hata oluştu.");
+                        console.log(err);
+                    }
+                }
+            });
+        });
+
+        //Rolü Değiştirme - Üye için
+
+        $(".btnUyeChange").click(function () {
+            var personID = $(this).attr("data");
+            var person = {
+                "RoleID": $("#uyeChange").val(),
+                "PersonID": personID,
+            }
+            $.ajax({
+                type: "POST",
+                url: "/AdminProcess/PersonUyeChange/" + personID,
+                data: person,
+                success: function (resp) {
+                    if (resp == "ok") {
+                        alert("Başarıyla değiştirildi");
+                        window.location.reload();
+                    }
+                    else {
+                        alert("İşlemde bir hata oluştu.");
+                        console.log(err);
+                    }
+                }
+            });
+        });
+
+         //Rolü Değiştirme - Modelist için
+
+        $(".btnModelistChange").click(function () {
+            var personID = $(this).attr("data");
+            var person = {
+                "RoleID": $("#modelistChange").val(),
+                "PersonID": personID,
+            }
+            $.ajax({
+                type: "POST",
+                url: "/AdminProcess/PersonModelistChange/" + personID,
+                data: person,
+                success: function (resp) {
+                    if (resp == "ok") {
+                        alert("Başarıyla değiştirildi");
+                        window.location.reload();
+                    }
+                    else {
+                        alert("İşlemde bir hata oluştu.");
+                        console.log(err);
+                    }
+                }
+            });
+        });
+
+    </script>
+}
+

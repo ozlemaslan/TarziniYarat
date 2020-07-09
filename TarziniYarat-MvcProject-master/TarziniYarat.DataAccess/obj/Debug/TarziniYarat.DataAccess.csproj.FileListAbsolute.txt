@@ -1,0 +1,108 @@
+C:\Users\Kubra SEYREK\Desktop\TarziniYarat-MvcProjesi\TarziniYarat.DataAccess\bin\Debug\TarziniYarat.DataAccess.dll.config
+C:\Users\Kubra SEYREK\Desktop\TarziniYarat-MvcProjesi\TarziniYarat.DataAccess\bin\Debug\TarziniYarat.DataAccess.dll
+C:\Users\Kubra SEYREK\Desktop\TarziniYarat-MvcProjesi\TarziniYarat.DataAccess\bin\Debug\TarziniYarat.DataAccess.pdb
+C:\Users\Kubra SEYREK\Desktop\TarziniYarat-MvcProjesi\TarziniYarat.DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\Kubra SEYREK\Desktop\TarziniYarat-MvcProjesi\TarziniYarat.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Kubra SEYREK\Desktop\TarziniYarat-MvcProjesi\TarziniYarat.DataAccess\bin\Debug\TarziniYarat.Core.dll
+C:\Users\Kubra SEYREK\Desktop\TarziniYarat-MvcProjesi\TarziniYarat.DataAccess\bin\Debug\TarziniYarat.Model.dll
+C:\Users\Kubra SEYREK\Desktop\TarziniYarat-MvcProjesi\TarziniYarat.DataAccess\bin\Debug\TarziniYarat.Core.pdb
+C:\Users\Kubra SEYREK\Desktop\TarziniYarat-MvcProjesi\TarziniYarat.DataAccess\bin\Debug\TarziniYarat.Core.dll.config
+C:\Users\Kubra SEYREK\Desktop\TarziniYarat-MvcProjesi\TarziniYarat.DataAccess\bin\Debug\TarziniYarat.Model.pdb
+C:\Users\Kubra SEYREK\Desktop\TarziniYarat-MvcProjesi\TarziniYarat.DataAccess\bin\Debug\TarziniYarat.Model.dll.config
+C:\Users\Kubra SEYREK\Desktop\TarziniYarat-MvcProjesi\TarziniYarat.DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\Kubra SEYREK\Desktop\TarziniYarat-MvcProjesi\TarziniYarat.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Kubra SEYREK\Desktop\TarziniYarat-MvcProjesi\TarziniYarat.DataAccess\obj\Debug\TarziniYarat.DataAccess.csprojAssemblyReference.cache
+C:\Users\Kubra SEYREK\Desktop\TarziniYarat-MvcProjesi\TarziniYarat.DataAccess\obj\Debug\TarziniYarat.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Kubra SEYREK\Desktop\TarziniYarat-MvcProjesi\TarziniYarat.DataAccess\obj\Debug\TarziniYarat.DataAccess.csproj.CopyComplete
+C:\Users\Kubra SEYREK\Desktop\TarziniYarat-MvcProjesi\TarziniYarat.DataAccess\obj\Debug\TarziniYarat.DataAccess.dll
+C:\Users\Kubra SEYREK\Desktop\TarziniYarat-MvcProjesi\TarziniYarat.DataAccess\obj\Debug\TarziniYarat.DataAccess.pdb
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject3\TarziniYarat.DataAccess\bin\Debug\TarziniYarat.DataAccess.dll.config
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject3\TarziniYarat.DataAccess\bin\Debug\TarziniYarat.DataAccess.dll
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject3\TarziniYarat.DataAccess\bin\Debug\TarziniYarat.DataAccess.pdb
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject3\TarziniYarat.DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject3\TarziniYarat.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject3\TarziniYarat.DataAccess\bin\Debug\TarziniYarat.Core.dll
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject3\TarziniYarat.DataAccess\bin\Debug\TarziniYarat.Model.dll
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject3\TarziniYarat.DataAccess\bin\Debug\TarziniYarat.Core.pdb
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject3\TarziniYarat.DataAccess\bin\Debug\TarziniYarat.Core.dll.config
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject3\TarziniYarat.DataAccess\bin\Debug\TarziniYarat.Model.pdb
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject3\TarziniYarat.DataAccess\bin\Debug\TarziniYarat.Model.dll.config
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject3\TarziniYarat.DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject3\TarziniYarat.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject3\TarziniYarat.DataAccess\obj\Debug\TarziniYarat.DataAccess.csprojAssemblyReference.cache
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject3\TarziniYarat.DataAccess\obj\Debug\TarziniYarat.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject3\TarziniYarat.DataAccess\obj\Debug\TarziniYarat.DataAccess.csproj.CopyComplete
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject3\TarziniYarat.DataAccess\obj\Debug\TarziniYarat.DataAccess.dll
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject3\TarziniYarat.DataAccess\obj\Debug\TarziniYarat.DataAccess.pdb
+C:\Users\ozlem\Source\Repos\TarziniYarat-MvcProject\TarziniYarat.DataAccess\bin\Debug\TarziniYarat.DataAccess.dll.config
+C:\Users\ozlem\Source\Repos\TarziniYarat-MvcProject\TarziniYarat.DataAccess\bin\Debug\TarziniYarat.DataAccess.dll
+C:\Users\ozlem\Source\Repos\TarziniYarat-MvcProject\TarziniYarat.DataAccess\bin\Debug\TarziniYarat.DataAccess.pdb
+C:\Users\ozlem\Source\Repos\TarziniYarat-MvcProject\TarziniYarat.DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\ozlem\Source\Repos\TarziniYarat-MvcProject\TarziniYarat.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ozlem\Source\Repos\TarziniYarat-MvcProject\TarziniYarat.DataAccess\bin\Debug\TarziniYarat.Core.dll
+C:\Users\ozlem\Source\Repos\TarziniYarat-MvcProject\TarziniYarat.DataAccess\bin\Debug\TarziniYarat.Model.dll
+C:\Users\ozlem\Source\Repos\TarziniYarat-MvcProject\TarziniYarat.DataAccess\bin\Debug\TarziniYarat.Core.pdb
+C:\Users\ozlem\Source\Repos\TarziniYarat-MvcProject\TarziniYarat.DataAccess\bin\Debug\TarziniYarat.Core.dll.config
+C:\Users\ozlem\Source\Repos\TarziniYarat-MvcProject\TarziniYarat.DataAccess\bin\Debug\TarziniYarat.Model.pdb
+C:\Users\ozlem\Source\Repos\TarziniYarat-MvcProject\TarziniYarat.DataAccess\bin\Debug\TarziniYarat.Model.dll.config
+C:\Users\ozlem\Source\Repos\TarziniYarat-MvcProject\TarziniYarat.DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\ozlem\Source\Repos\TarziniYarat-MvcProject\TarziniYarat.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ozlem\Source\Repos\TarziniYarat-MvcProject\TarziniYarat.DataAccess\obj\Debug\TarziniYarat.DataAccess.csprojAssemblyReference.cache
+C:\Users\ozlem\Source\Repos\TarziniYarat-MvcProject\TarziniYarat.DataAccess\obj\Debug\TarziniYarat.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\ozlem\Source\Repos\TarziniYarat-MvcProject\TarziniYarat.DataAccess\obj\Debug\TarziniYarat.DataAccess.csproj.CopyComplete
+C:\Users\ozlem\Source\Repos\TarziniYarat-MvcProject\TarziniYarat.DataAccess\obj\Debug\TarziniYarat.DataAccess.dll
+C:\Users\ozlem\Source\Repos\TarziniYarat-MvcProject\TarziniYarat.DataAccess\obj\Debug\TarziniYarat.DataAccess.pdb
+C:\Users\Kubra SEYREK\Source\Repos\TarziniYarat-MvcProject\TarziniYarat.DataAccess\bin\Debug\TarziniYarat.DataAccess.dll.config
+C:\Users\Kubra SEYREK\Source\Repos\TarziniYarat-MvcProject\TarziniYarat.DataAccess\bin\Debug\TarziniYarat.DataAccess.dll
+C:\Users\Kubra SEYREK\Source\Repos\TarziniYarat-MvcProject\TarziniYarat.DataAccess\bin\Debug\TarziniYarat.DataAccess.pdb
+C:\Users\Kubra SEYREK\Source\Repos\TarziniYarat-MvcProject\TarziniYarat.DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\Kubra SEYREK\Source\Repos\TarziniYarat-MvcProject\TarziniYarat.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Kubra SEYREK\Source\Repos\TarziniYarat-MvcProject\TarziniYarat.DataAccess\bin\Debug\TarziniYarat.Core.dll
+C:\Users\Kubra SEYREK\Source\Repos\TarziniYarat-MvcProject\TarziniYarat.DataAccess\bin\Debug\TarziniYarat.Model.dll
+C:\Users\Kubra SEYREK\Source\Repos\TarziniYarat-MvcProject\TarziniYarat.DataAccess\bin\Debug\TarziniYarat.Core.pdb
+C:\Users\Kubra SEYREK\Source\Repos\TarziniYarat-MvcProject\TarziniYarat.DataAccess\bin\Debug\TarziniYarat.Core.dll.config
+C:\Users\Kubra SEYREK\Source\Repos\TarziniYarat-MvcProject\TarziniYarat.DataAccess\bin\Debug\TarziniYarat.Model.pdb
+C:\Users\Kubra SEYREK\Source\Repos\TarziniYarat-MvcProject\TarziniYarat.DataAccess\bin\Debug\TarziniYarat.Model.dll.config
+C:\Users\Kubra SEYREK\Source\Repos\TarziniYarat-MvcProject\TarziniYarat.DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\Kubra SEYREK\Source\Repos\TarziniYarat-MvcProject\TarziniYarat.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Kubra SEYREK\Source\Repos\TarziniYarat-MvcProject\TarziniYarat.DataAccess\obj\Debug\TarziniYarat.DataAccess.csprojAssemblyReference.cache
+C:\Users\Kubra SEYREK\Source\Repos\TarziniYarat-MvcProject\TarziniYarat.DataAccess\obj\Debug\TarziniYarat.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Kubra SEYREK\Source\Repos\TarziniYarat-MvcProject\TarziniYarat.DataAccess\obj\Debug\TarziniYarat.DataAccess.csproj.CopyComplete
+C:\Users\Kubra SEYREK\Source\Repos\TarziniYarat-MvcProject\TarziniYarat.DataAccess\obj\Debug\TarziniYarat.DataAccess.dll
+C:\Users\Kubra SEYREK\Source\Repos\TarziniYarat-MvcProject\TarziniYarat.DataAccess\obj\Debug\TarziniYarat.DataAccess.pdb
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject.Son\TarziniYarat.DataAccess\bin\Debug\TarziniYarat.DataAccess.dll.config
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject.Son\TarziniYarat.DataAccess\bin\Debug\TarziniYarat.DataAccess.dll
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject.Son\TarziniYarat.DataAccess\bin\Debug\TarziniYarat.DataAccess.pdb
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject.Son\TarziniYarat.DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject.Son\TarziniYarat.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject.Son\TarziniYarat.DataAccess\bin\Debug\TarziniYarat.Core.dll
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject.Son\TarziniYarat.DataAccess\bin\Debug\TarziniYarat.Model.dll
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject.Son\TarziniYarat.DataAccess\bin\Debug\TarziniYarat.Core.pdb
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject.Son\TarziniYarat.DataAccess\bin\Debug\TarziniYarat.Core.dll.config
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject.Son\TarziniYarat.DataAccess\bin\Debug\TarziniYarat.Model.pdb
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject.Son\TarziniYarat.DataAccess\bin\Debug\TarziniYarat.Model.dll.config
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject.Son\TarziniYarat.DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject.Son\TarziniYarat.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject.Son\TarziniYarat.DataAccess\obj\Debug\TarziniYarat.DataAccess.csprojAssemblyReference.cache
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject.Son\TarziniYarat.DataAccess\obj\Debug\TarziniYarat.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject.Son\TarziniYarat.DataAccess\obj\Debug\TarziniYarat.DataAccess.csproj.CopyComplete
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject.Son\TarziniYarat.DataAccess\obj\Debug\TarziniYarat.DataAccess.dll
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject.Son\TarziniYarat.DataAccess\obj\Debug\TarziniYarat.DataAccess.pdb
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject.Guncel\TarziniYarat.DataAccess\bin\Debug\TarziniYarat.DataAccess.dll.config
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject.Guncel\TarziniYarat.DataAccess\bin\Debug\TarziniYarat.DataAccess.dll
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject.Guncel\TarziniYarat.DataAccess\bin\Debug\TarziniYarat.DataAccess.pdb
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject.Guncel\TarziniYarat.DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject.Guncel\TarziniYarat.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject.Guncel\TarziniYarat.DataAccess\bin\Debug\TarziniYarat.Core.dll
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject.Guncel\TarziniYarat.DataAccess\bin\Debug\TarziniYarat.Model.dll
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject.Guncel\TarziniYarat.DataAccess\bin\Debug\TarziniYarat.Core.pdb
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject.Guncel\TarziniYarat.DataAccess\bin\Debug\TarziniYarat.Core.dll.config
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject.Guncel\TarziniYarat.DataAccess\bin\Debug\TarziniYarat.Model.pdb
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject.Guncel\TarziniYarat.DataAccess\bin\Debug\TarziniYarat.Model.dll.config
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject.Guncel\TarziniYarat.DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject.Guncel\TarziniYarat.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject.Guncel\TarziniYarat.DataAccess\obj\Debug\TarziniYarat.DataAccess.csprojAssemblyReference.cache
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject.Guncel\TarziniYarat.DataAccess\obj\Debug\TarziniYarat.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject.Guncel\TarziniYarat.DataAccess\obj\Debug\TarziniYarat.DataAccess.csproj.CopyComplete
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject.Guncel\TarziniYarat.DataAccess\obj\Debug\TarziniYarat.DataAccess.dll
+C:\Users\tugba\Source\Repos\TarziniYarat-MvcProject.Guncel\TarziniYarat.DataAccess\obj\Debug\TarziniYarat.DataAccess.pdb

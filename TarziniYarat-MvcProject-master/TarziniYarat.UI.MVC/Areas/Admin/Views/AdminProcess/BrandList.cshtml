@@ -1,0 +1,162 @@
+﻿@model IEnumerable<TarziniYarat.Model.Brand>
+@{
+    ViewBag.Title = "BrandList";
+    Layout = "~/Areas/Admin/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h2>Marka Listesi</h2>
+<br />
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.CompanyName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.IsActive)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CreatedDate)
+        </th>
+        <th>
+            Güncelle
+        </th>
+        <th>
+            Aktif/Pasif
+        </th>
+        <th>
+            Sil
+        </th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+<tr>
+    <td>
+        @Html.DisplayFor(modelItem => item.CompanyName, new { @class = "btnName" })
+    </td>
+    <td>
+        @item.IsActive
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.CreatedDate)
+    </td>
+
+    <td>
+        <a href="/Admin/AdminProcess/GetBrand/@item.BrandID" class="btn btn-success">Güncelle</a>
+    </td>
+
+    <td>
+        <button href="#" name="brandActive" class="btn btn-primary  btnActivate" data="@item.BrandID">
+            Aktif/Pasif
+        </button>
+    </td>
+    <td>@Html.ActionLink("Sil", "DeleteBrand", new { id = item.BrandID }, new { @class = "btn btn-danger", onclick = "return confirm('Gerçekten silmek istiyor musunuz?')" })</td>
+</tr>
+    }
+
+</table>
+
+<br />
+<hr />
+
+
+<br />
+@Html.ActionLink("Marka Ekleme Sayfasına Git", "AddBrand")
+
+@section scripts{
+
+    <script>
+
+        ////Güncelleme
+
+        //$("#btnUpdateChange").click(function () {
+        //    var brandId = $(this).attr("dataID");
+        //    var brand = {
+        //        "CompanyName": $("#brandName").val(),
+        //        "BrandID": brandId,
+        //    }
+        //    $.ajax({
+        //        url: "/AdminProcess/UpdateBrand/",
+        //        type: "POST",
+        //        data: brand,
+        //        success: function (resp) {
+        //            if (resp == "ok") {
+        //                alert("Güncelleme Başarılı")
+        //                window.location.reload();
+        //            }
+
+        //        },
+        //        onerror: function (err) {
+        //            alert("İstek başarısız.")
+        //            console.log(err);
+        //        }
+        //    })
+        //})
+
+        ////Güncellenecek verilerin gelmesi
+
+        //$(".btnUpdate").click(function () {
+        //    var brandId = $(this).attr("dataID");
+        //    $.ajax({
+        //        url: "/AdminProcess/GetBrand/" + brandId,
+        //        type: "POST",
+        //        success: function (resp) {
+        //            if (resp != null) {
+        //                $("#brandName").val(resp.CompanyName);
+        //                $("#btnUpdateChange").attr("dataID", brandId);
+        //            }
+        //        },
+        //        onerror: function (err) {
+        //            alert("Hata Oluştu.")
+        //            console.log(err);
+        //        }
+        //    })
+        //})
+
+        //Pasifleştirme
+
+        $(".btnActivate").click(function () {
+            var brandID = $(this).attr("data");
+            var brand = {
+                "IsActıve": $("#brandActive").val(),
+                "BrandID": brandID,
+            }
+            $.ajax({
+                type: "POST",
+                url: "/AdminProcess/ActiveBrand/" + brandID,
+                data: brand,
+                success: function (resp) {
+                    if (resp == "ok") {
+                        alert("Başarıyla değiştirildi");
+                        window.location.reload();
+                    }
+                    else {
+                        alert("İşlemde bir hata oluştu.");
+                        console.log(err);
+                    }
+                }
+            });
+        });
+
+        //Hard Silme
+
+        $(".btnDelete").click(function () {
+            var brandId = $(this).attr("dataBrandID");
+            $.ajax({
+                url: "/AdminProcess/DeleteBrand/" + brandId,
+                type: "POST",
+                success: function (data) {
+                    if (data == "ok") {
+                        alert("Silme İşlemi Başarılı");
+                        window.location.reload();
+                    }
+                },
+                error: function (err) {
+                    alert("Hata Oluştu.");
+                    console.log(err);
+                }
+            });
+        })
+    </script>
+
+}

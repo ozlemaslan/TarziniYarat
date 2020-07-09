@@ -1,0 +1,25 @@
+﻿
+@{
+    ViewBag.Title = "List";
+    Layout = "~/Views/Shared/_LayoutSites.cshtml";
+}
+
+<h2>List</h2>
+
+<div id="content" class="row">
+
+</div>
+
+@section scripts{
+    <script>
+        $(document).ready(function () {
+            $.ajax({
+                type: "GET",
+                url: "/Card/GetCart",
+                success: function (response) {
+                    $("#content").html(response);
+                }
+            });
+        });
+    </script>
+}
